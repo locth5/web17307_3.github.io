@@ -1,0 +1,25 @@
+.boxcenter{
+    width:100%;
+    margin: 0 auto;
+}
+table{
+    border: 1px solid #00f;
+    width:100%;
+    border-collapse: collapse;
+}
+tr{
+    border: 1px solid #00f;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+td{
+    border: 1px solid #00f;
+    padding: 10px;
+}
+tr:nth-child(2n){
+    background-color: yellow
+}
+.bgpink{
+    background-color:pink;
+}
